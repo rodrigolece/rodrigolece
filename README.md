@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey, good to see you here 👋
+
+I'm a Senior Data Scientist at [Quine](quine.sh). In my job, I use Networks Science to quantify "reputation" in the OSS ecosystem!
+
+[![rodrigolece's GitHub Stats](https://stats.quine.sh/rodrigolece/github?theme=light)](https://quine.sh)
+
+[![rodrigolece's GitHub Languages Over Time](https://stats.quine.sh/rodrigolece/languages-over-time?theme=light)](https://quine.sh)
+
+Sign-up to [Quine](quine.sh) and you too will be able to generated cool widgets like the ones above!
 
 <!--
 **rodrigolece/rodrigolece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
