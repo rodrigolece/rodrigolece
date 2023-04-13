@@ -2,6 +2,8 @@
 
 I'm a Senior Data Scientist at [Quine](quine.sh). In my job, I use Networks Science to quantify "reputation" in the OSS ecosystem!
 
+📍 CDMX (I guess that explains my avatar...)
+
 [![rodrigolece's GitHub Stats](https://stats.quine.sh/rodrigolece/github?theme=light)](https://quine.sh)
 
 [![rodrigolece's GitHub Languages Over Time](https://stats.quine.sh/rodrigolece/languages-over-time?theme=light)](https://quine.sh)
