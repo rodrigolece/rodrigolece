@@ -4,9 +4,9 @@ I'm a Senior Data Scientist at [Quine](quine.sh). In my job, I use Networks Scie
 
 📍 CDMX (I guess that explains my avatar...)
 
-[![rodrigolece's GitHub Stats](https://stats.quine.sh/rodrigolece/github?theme=light)](https://quine.sh)
+[![rodrigolece's GitHub Stats](https://stats.quine.sh/rodrigolece/github?theme=light)](https://quine.sh) [![rodrigolece's GitHub | Dependencies](https://stats.quine.sh/rodrigolece/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=rodrigolece)
 
-[![rodrigolece's GitHub Languages Over Time](https://stats.quine.sh/rodrigolece/languages-over-time?theme=light)](https://quine.sh)
+[![rodrigolece's GitHub | Languages Over Time](https://stats.quine.sh/rodrigolece/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=rodrigolece)
 
 Sign-up to [Quine](quine.sh) and you too will be able to generated cool widgets like the ones above!
 
